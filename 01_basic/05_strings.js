@@ -6,4 +6,3 @@ console.log(`Hello my name is ${name} and my count is ${repoCount} `);
 const gameName = new String('permandevil')
 
 console.log(`${name} is ${age} years old.`)
-Nikhil is 25 years old.
