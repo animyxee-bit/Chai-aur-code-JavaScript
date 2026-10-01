@@ -60,3 +60,8 @@ const addtwo = function(num) {
     return num + 2
 }
 addtwo(5)
+
+
+let a = "5";
+let b = 10;
+console.log(a - b);
