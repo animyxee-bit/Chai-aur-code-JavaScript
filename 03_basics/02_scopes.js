@@ -3,7 +3,7 @@
 // const { use } = require("react");
 
 var c = 300
-if (true) {
+if (true) {   
     let a = 10;
     const b = 20;
     var c = 30 ;
@@ -39,7 +39,7 @@ if (true) {
     const username = "Nikhil"
     if (username === "Nikhil") {
         const website = " Youtube"
-        // console.log(username + website)
+        console.log(username + website)
     }
     // console.log(website);
     
