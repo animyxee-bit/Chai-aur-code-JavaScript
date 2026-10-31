@@ -25,6 +25,6 @@ const debitcard = false
 if (userLoggedIn && debitcard) {
     console.log("Allow for shopping");
     } else {
-        console.log("Not Allow for shopping");
+        console.log("Not Allow  for shopping");
         
     }
