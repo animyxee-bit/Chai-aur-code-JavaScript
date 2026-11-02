@@ -20,11 +20,34 @@
 //     console.log("greater than 400");
 
 // }
-const userLoggedIn = true
-const debitcard = false
-if (userLoggedIn && debitcard) {
-    console.log("Allow for shopping");
-    } else {
-        console.log("Not Allow  for shopping");
+// const userLoggedIn = true
+// const debitcard = false
+// if (userLoggedIn && debitcard) {
+//     console.log("Allow for shopping");
+//     } else {
+//         console.log("Not Allow  for shopping");
         
-    }
+//     }
+
+
+const burger = 10
+if ( burger <= 20 ) {
+     console.log("it's 10 burgers ");
+     
+} else {
+    console.log("It's not 10");
+    
+}
+
+const userLoggedInfromemail = true
+const guest = true 
+const yahoo = false
+const musthavemoney = true
+if (userLoggedInfromemail && guest) {
+    console.log("User aa gya");
+    
+}
+if (yahoo || musthavemoney ) {
+    console.log("Firse aa gya");
+    
+}
